@@ -38,4 +38,3 @@ thr2 = threading.Thread(target=fc2)
 
 thr1.start()
 thr2.start()
-thr1.start()
